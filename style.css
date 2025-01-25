@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f4e3; /* Ivory background */
+  color: #3b3b3b; /* Dark muted text */
+  font-family: "Arial", sans-serif;
+}
+.btn {
+  border-radius: 50px;
+}
+.card {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.table th {
+  background-color: #d3c6aa; /* Muted gold */
+  color: #fff;
+}
+.table tbody tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+.summary-card {
+  background-color: #e5e5dc; /* Light sage green */
+}
